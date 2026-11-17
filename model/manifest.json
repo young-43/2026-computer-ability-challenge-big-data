@@ -1,0 +1,54 @@
+{
+  "config.json": {
+    "bytes": 707,
+    "sha256": "3146c755d802a34e75c54eb56f508effe4be83d926eadc4121e2aa2d1a82f0ea"
+  },
+  "predict.py": {
+    "bytes": 6198,
+    "sha256": "3593a4a6406a3cb27af138d431a9338024f814e75e53d5e7602304629dc91ea9"
+  },
+  "glaucoma/data.py": {
+    "bytes": 7324,
+    "sha256": "e53361fea7566ed52cae684f19aa3449fed7b7a7478c0e4a0f7a82f00f6a6604"
+  },
+  "glaucoma/local_region.py": {
+    "bytes": 5719,
+    "sha256": "010335c40fc3f07bcdcc103e176c7ad8136889418732cb0e3b4b5c039af0f0a6"
+  },
+  "glaucoma/models.py": {
+    "bytes": 1594,
+    "sha256": "2e577df535ac259033874e4c2063c332937be7de3c8109d28a1b8f9762a01aad"
+  },
+  "glaucoma/r23_geometry.py": {
+    "bytes": 1755,
+    "sha256": "b9e26ea06a63c1cf0cc11bf132f97d6fd44b93a2a9f5059ac8c5db56ec9db771"
+  },
+  "glaucoma/r23_model.py": {
+    "bytes": 1726,
+    "sha256": "72ff6f938190520f21edae39f56ba7953c0a765c44a90074d83c1229196bfbf6"
+  },
+  "glaucoma/r24_protocol.py": {
+    "bytes": 2442,
+    "sha256": "6cb95b2b91c8d5655e29b03a108075e696a251cd5231d689c9064f0d9f294af8"
+  },
+  "glaucoma/r27_geometry.py": {
+    "bytes": 1904,
+    "sha256": "9fddfd60b1df5d42bd15b8339459b2590bd786e153cd858aed419a55a747371f"
+  },
+  "glaucoma/__init__.py": {
+    "bytes": 51,
+    "sha256": "6d04fced8a9b41741dd43bc0d5eb27e102a860501c948e7bf6133d273e921db1"
+  },
+  "weights/global.pt": {
+    "bytes": 31236130,
+    "sha256": "06db074eff6317f089f4bf3c0648998640346f2e96d2838e218564a3ceb756df"
+  },
+  "weights/local.pt": {
+    "bytes": 111340198,
+    "sha256": "fe74810ea8e493be09de9ba6685779d608197d365c166e8f01121d0d891cabf4"
+  },
+  "weights/locator.pt": {
+    "bytes": 876140,
+    "sha256": "d44deae15fe53e467ac7f1c29b33fbe21083ff60699af91d57625a84949e36e2"
+  }
+}

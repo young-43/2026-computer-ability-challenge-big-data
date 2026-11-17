@@ -1,0 +1,24 @@
+{
+  "fraction": 0.3,
+  "fusion_global_weight": 0.5,
+  "threshold": 0.5,
+  "global_epoch": 7,
+  "local_epoch": 12,
+  "locator_epoch": 50,
+  "roi_policy": "R23_center_uniform_sourcefield30",
+  "padding": "black_keep_center_and_source_scale",
+  "weights": {
+    "global": {
+      "path": "weights/global.pt",
+      "sha256": "06db074eff6317f089f4bf3c0648998640346f2e96d2838e218564a3ceb756df"
+    },
+    "local": {
+      "path": "weights/local.pt",
+      "sha256": "fe74810ea8e493be09de9ba6685779d608197d365c166e8f01121d0d891cabf4"
+    },
+    "locator": {
+      "path": "weights/locator.pt",
+      "sha256": "d44deae15fe53e467ac7f1c29b33fbe21083ff60699af91d57625a84949e36e2"
+    }
+  }
+}
